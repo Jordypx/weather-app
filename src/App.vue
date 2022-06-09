@@ -166,4 +166,35 @@ main {
   font-style: italic;
   text-shadow: 3px 6px rgba(0, 0, 0, 0.25);
 }
+
+@media screen and (min-width: 480px) {
+
+.search-box {
+  width: 100%;
+}
+
+
+.search-box .search-bar {
+  width: 30%;
+  padding: 0.8rem;
+  margin: 0 auto;
+}
+
+.weather-wrap {
+  margin: 5rem;
+}
+
+
+.location-box .location{
+ display: flex;
+ justify-content: center;
+ align-content: center;
+  
+}
+
+
+
+
+
+}
 </style>
