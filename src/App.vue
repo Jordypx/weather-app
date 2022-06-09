@@ -168,19 +168,18 @@ main {
 
 @media screen and (max-width: 480px) {
 
-
-main {
-    
-    
+ .weather-wrap {
+  width: 100%
+  margin: 0 auto;
   
-  }
+}
   
   .location-box .location{
-   
-   width: 20%;
-    font-size: .5rem;
+  
   
   }
+  
+  
 
 
 }
