@@ -167,7 +167,7 @@ main {
   text-shadow: 3px 6px rgba(0, 0, 0, 0.25);
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 480px) {
 
 
  .search-box {
@@ -175,7 +175,8 @@ main {
   }
   
   .search-box .search-bar{
-  width: 30%
+  width: 100%
+  padding: 0.4;
   }
 
 
