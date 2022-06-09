@@ -174,10 +174,7 @@ main {
    width: 100%:
   }
 
-.search-box .search-bar {
-  width: 30%;
-  padding: 0.4rem;
-}
+
 
 .weather-wrap {
   margin: 3rem;
