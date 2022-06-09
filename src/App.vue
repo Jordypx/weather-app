@@ -175,9 +175,8 @@ main {
 
 
 .search-box .search-bar {
-  width: 30%;
-  padding: 0.8rem;
-  margin: 0 auto;
+  width: 80%;
+  padding: 0.5rem;
 }
 
 .weather-wrap {
