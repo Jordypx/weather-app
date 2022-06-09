@@ -174,7 +174,7 @@ main {
   }
 
 .search-box .search-bar {
-  width: 100%;
+  min-width: 100%;
   padding: 0.4rem;
 }
 
