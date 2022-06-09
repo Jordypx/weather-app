@@ -172,6 +172,14 @@ main {
 main {
   width: 50%;
   margin: 0 auto;
+  
+  }
+  
+  .location-box .location{
+   
+   text-align: center;
+  
+  }
 
 
 }
