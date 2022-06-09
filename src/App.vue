@@ -172,7 +172,7 @@ main {
 
 .search-box .search-bar {
   max-width: 100%;
-  padding: 0.5rem;
+  padding: 0.4rem;
 }
 
 .weather-wrap {
@@ -181,12 +181,18 @@ main {
 
 
 .location-box .location{
- display: flex;
- justify-content: center;
- align-content: center;
+width: 20%;
+font-size: 0.5rem;
   
 }
 
+.location-box .date {
+  color: #FFF;
+  font-size: 1.8rem;
+  font-weight: 500;
+  text-align: center;
+  font-style: italic;
+}
 
 
 
