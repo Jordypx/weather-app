@@ -176,7 +176,7 @@ main {
 }
 
 .weather-wrap {
-  margin: 5rem;
+  margin: 3rem;
 }
 
 
