@@ -101,6 +101,7 @@ main {
 
 .search-box .search-bar {
   display: block;
+  width: 30%;
   padding: 0.7rem;
   margin: 0 auto;
 
@@ -174,7 +175,7 @@ main {
   }
 
 .search-box .search-bar {
-  min-width: 100%;
+  width: 30%;
   padding: 0.4rem;
 }
 
@@ -182,12 +183,16 @@ main {
   margin: 3rem;
 }
 
+.location-box .location{
+ display: flex;
+ justify-content: center;
+ align-content: center;
+}
+
+
+
 .location-box .date {
-  color: #FFF;
-  font-size: 1.8rem;
-  font-weight: 500;
-  text-align: center;
-  font-style: italic;
+
 }
 
 
