@@ -170,7 +170,7 @@ main {
 
 
 main {
-  width: 50%;
+  width: 100%;
   margin: 0 auto;
   
   }
