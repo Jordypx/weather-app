@@ -169,6 +169,10 @@ main {
 @media screen and (max-width: 420px) {
 
 
+ .search-box {
+   width: 100%:
+  }
+
 .search-box .search-bar {
   width: 100%;
   padding: 0.4rem;
@@ -176,8 +180,6 @@ main {
 
 .weather-wrap {
   margin: 3rem;
-}
-
 }
 
 .location-box .date {
