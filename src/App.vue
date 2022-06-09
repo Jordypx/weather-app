@@ -177,7 +177,8 @@ main {
   
   .location-box .location{
    
-   text-align: center;
+   width: 20%;
+    font-size: .5rem;
   
   }
 
