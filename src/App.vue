@@ -101,6 +101,7 @@ main {
 
 .search-box .search-bar {
   display: block;
+  width: 30%;
   padding: 0.7rem;
   margin: 0 auto;
 
@@ -168,15 +169,11 @@ main {
 
 @media screen and (max-width: 480px) {
 
+.search-box input{
+ width: 100%
+ padding: 0.5rem;
+}
 
- .search-box {
-   width: 200%:
-  }
-  
-  .search-box .search-bar{
-  width: 200%
-  padding: 0.4;
-  }
 
 .weather-wrap {
   margin: 3rem;
