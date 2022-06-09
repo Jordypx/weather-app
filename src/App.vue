@@ -169,13 +169,9 @@ main {
 
 @media screen and (max-width: 480px) {
 
-.search-box {
-  width: 100%;
-}
-
 
 .search-box .search-bar {
-  width: 80%;
+  width: 100%;
   padding: 0.5rem;
 }
 
