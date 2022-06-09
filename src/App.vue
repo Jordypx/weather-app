@@ -168,36 +168,10 @@ main {
 
 @media screen and (max-width: 480px) {
 
-.search-box {
-  max-width: 100%;
-}
 
-
-.search-box input{
- width: 100%
- padding: 0.5rem;
-}
-
-
-.weather-wrap {
-  margin: 3rem;
-}
-
-.location-box .location{
- display: flex;
- justify-content: center;
- align-content: center;
-}
-
-
-
-.location-box .date {
-width: 50%;
-margin: 0 auto;
-
-}
-
-
+main {
+  width: 50%;
+  margin: 0 auto;
 
 
 }
