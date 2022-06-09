@@ -179,11 +179,6 @@ main {
   margin: 3rem;
 }
 
-
-.location-box .location{
-width: 20%;
-font-size: 0.5rem;
-  
 }
 
 .location-box .date {
