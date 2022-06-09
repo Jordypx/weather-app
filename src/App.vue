@@ -169,6 +169,11 @@ main {
 
 @media screen and (max-width: 480px) {
 
+.search-box {
+  max-width: 100%;
+}
+
+
 .search-box input{
  width: 100%
  padding: 0.5rem;
