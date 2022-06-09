@@ -173,6 +173,10 @@ main {
  .search-box {
    width: 100%:
   }
+  
+  .search-box .search-bar{
+  width: 30%
+  }
 
 
 
